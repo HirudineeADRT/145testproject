@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "df011958-cf39-40da-a319-b77d9c8b980d": {
+        "id": "df011958-cf39-40da-a319-b77d9c8b980d",
+        "parent": null,
+        "name": "145testproject.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "145testproject.js",
+        "cursor": {
+          "lineNumber": 4,
+          "column": 3
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "145testproject"
+        },
+        "triggers": [],
+        "lastUpdated": 1603438465870
+      }
+    },
+    "openFiles": [
+      "df011958-cf39-40da-a319-b77d9c8b980d"
+    ],
+    "currentFileId": "df011958-cf39-40da-a319-b77d9c8b980d",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.5",
+    "projectName": "145testproject",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1603443350144
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "145testproject",
+      "url": "https://github.com/HirudineeADRT/145testproject"
+    }
+  }
+}
